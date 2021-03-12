@@ -24,6 +24,9 @@ The web site is not online, it was created only for development experience.
 # Icons
 - Fontawesome
 
+# Images
+- Unsplash
+
 # Informations
 Some screenshots will not be showned beacause of personnal properties (clients of the barber).
 Web site not responsive for the moment. It was a VueJs experimentation for my knowledge.
