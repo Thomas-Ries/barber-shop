@@ -31,17 +31,18 @@ The web site is not online, it was created only for development experience.
 Some screenshots will not be showned beacause of personnal properties (clients of the barber).
 Web site not responsive for the moment. It was a VueJs experimentation for my knowledge.
 
-#ScreenShots
+# ScreenShots
+
 ![alt tag](https://user-images.githubusercontent.com/73991398/110928027-af6bb700-8326-11eb-9154-c07917d473c7.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104352-6216a100-3e2e-11eb-96ef-20d5f3352edb.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/110928029-b0044d80-8326-11eb-9bef-832833bd7fa8.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104393-6f339000-3e2e-11eb-8e59-fe20500d8d9f.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/110928010-ac70c680-8326-11eb-81e1-cae6b953828b.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104426-78246180-3e2e-11eb-8a4f-be8579018613.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/110928015-ada1f380-8326-11eb-9132-6f8e3a784b04.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104337-5dea8380-3e2e-11eb-8470-4a67122060c5.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/110928017-ae3a8a00-8326-11eb-96f9-7c743256dbb8.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104337-5dea8380-3e2e-11eb-8470-4a67122060c5.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/110928021-ae3a8a00-8326-11eb-9dc6-ee3b87ec03a6.png)
 
-![alt tag](https://user-images.githubusercontent.com/73991398/102104337-5dea8380-3e2e-11eb-8470-4a67122060c5.png)
+![alt tag](https://user-images.githubusercontent.com/73991398/110928024-aed32080-8326-11eb-8d1a-2abcf669d78a.png)
