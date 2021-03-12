@@ -1,24 +1,29 @@
-# barber-shop
+# Barber Shop
+Personnal project for my barber.
+The web site is not online, it was created only for development experience.
 
-## Project setup
-```
-npm install
-```
+# Date
+12th March 2021
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# How to Setup
+- cd barber-shop
+- npm install
+- npm run dev (for development mode)
+- npm run build (for production mode)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# Languages used in Front
+- HTML 5
+- CSS 3
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Framework used in Front
+- Bootstrap via cdn
+- Vuejs Cli
+- Vue Router
+- VueX
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Icons
+- Fontawesome
+
+# Informations
+Some screenshots will not be showned beacause of personnal properties (clients of the barber).
+Web site not responsive for the moment. It was a VueJs experimentation for my knowledge.
