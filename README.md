@@ -28,7 +28,7 @@ The web site is not online, it was created only for development experience.
 - Unsplash
 
 # Informations
-Some screenshots will not be showned beacause of personnal properties (clients of the barber).
+Some screenshots will not be showned because of personnal properties (clients of the barber).
 Web site not responsive for the moment. It was a VueJs experimentation for my knowledge.
 
 # ScreenShots
